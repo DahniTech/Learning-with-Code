@@ -1,0 +1,32 @@
+html {
+    background-color: rgba(208, 218, 223, 0.932);
+       
+}
+
+.rubik-glitch-regular {
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+  
+/*Make this navbar sit on the side of the page
+.sidenav {
+    text-align: center;
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+    }
+     */ 
+.main-head{
+    text-align: center;
+    font-family: "Rubik Glitch", system-ui;
+}
+
+h2{
+    text-align: center;
+}
+.treet {
+    margin-left: 20%;
+}

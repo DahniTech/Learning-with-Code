@@ -1,2 +1,2 @@
-# Learning-with-Code
-A way to develop my coding skills while learning new languages and other skills!
+#Upskilling
+Using code as means to take note while learning new languages and a new branch in IT
